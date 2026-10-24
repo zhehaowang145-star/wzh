@@ -1,0 +1,10 @@
+*
+!.gitignore
+!.github/
+!.github/**
+!portfolio-site/
+!portfolio-site/**
+
+portfolio-site/public/media/*.jpg
+portfolio-site/public/media/*.jpeg
+portfolio-site/public/media/*.png
